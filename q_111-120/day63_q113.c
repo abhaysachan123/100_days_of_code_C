@@ -1,4 +1,4 @@
-// Q113: Write a program to take an integer array arr and an integer k as inputs.
+// Q113: Write a progq_111-120ram to take an integer array arr and an integer k as inputs.
 // The task is to find the kth smallest element in the array. Print the kth smallest element.
 
 /*
